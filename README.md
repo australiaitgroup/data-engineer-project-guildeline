@@ -38,6 +38,7 @@ https://drive.google.com/file/d/1pNNVQxAnhbOvvAagUoTsvk-pPjSgr4GZ/view?usp=shari
 1. Data Engineer由于会有大量的云端操作的过程，养成好的工作日志记录习惯，会帮助你未来找工作，未来工作中Troubleshooting是有帮助的
 2. DevOps是来Support工作的，Data Engineer需要保持自己组内的节奏进行工作。由于Data Engineer的工作很多跟云打交道，所以公司里DevOps是管理云服务的，Data Engineer日常工作中会经常跟DevOps打交道
 3. 由于组员会有Data Engineer和DevOps Engineer参加，会对大家的沟通能力Commnunication有了新的挑战，也尝试在过程中总结出自己的高效沟通方法论
+4. CI/CD等是面试常见问题，DevOps加入可以让你们更好理解概念，不需要知道怎么搭建的
 
 ### DevOps任务
 
